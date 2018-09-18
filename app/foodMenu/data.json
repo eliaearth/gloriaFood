@@ -1,0 +1,188 @@
+{
+	"foodCategories": [{
+		"foodType": "Pizza",
+		"foodTypeImg": "/src/pizzaImg.jpg",
+		"foodTypeId": "1",
+		"foodItems": [{
+			"foodItemName": "Pizza Marerita",
+			"foodItemId": "1",
+			"foodChoises": [{
+					"foodChoiseName": "Crispy",
+					"foodChoiseId": "1"
+				},
+				{
+					"foodChoiseName": "Fluffy",
+					"foodChoiseId": "2"
+				}
+			],
+			"foodAdds": [{
+					"foodAddName": "pepper",
+					"foodAddId": "1"
+				},
+				{
+					"foodAddName": "mushrooms",
+					"foodAddId": "2"
+				},
+				{
+					"foodAddName": "pineaple",
+					"foodAddId": "3"
+				}
+			]
+		}, {
+			"foodItemName": "Pizza Prosciuto",
+			"foodItemId": "1",
+			"foodChoises": [{
+					"foodChoiseName": "Crispy",
+					"foodChoiseId": "1"
+				},
+				{
+					"foodChoiseName": "Fluffy",
+					"foodChoiseId": "2"
+				}
+			],
+			"foodAdds": [{
+					"foodAddName": "pepper",
+					"foodAddId": "1"
+				},
+				{
+					"foodAddName": "mushrooms",
+					"foodAddId": "2"
+				},
+				{
+					"foodAddName": "pineaple",
+					"foodAddId": "3"
+				}
+			]
+		}, {
+			"foodItemName": "Pizza Napoli",
+			"foodItemId": "1",
+			"foodChoises": [{
+					"foodChoiseName": "Crispy",
+					"foodChoiseId": "1"
+				},
+				{
+					"foodChoiseName": "Fluffy",
+					"foodChoiseId": "2"
+				}
+			],
+			"foodAdds": [{
+					"foodAddName": "pepper",
+					"foodAddId": "1"
+				},
+				{
+					"foodAddName": "mushrooms",
+					"foodAddId": "2"
+				},
+				{
+					"foodAddName": "pineaple",
+					"foodAddId": "3"
+				}
+			]
+		}]
+
+	}, {
+		"foodType": "Pasta",
+		"foodTypeImg": "/src/pastaImg.jpg",
+		"foodTypeId": "2",
+		"foodItems": [{
+			"foodItemName": "Spaghetti bolognese",
+			"foodItemId": "1",
+			"foodChoises": [{
+					"foodChoiseName": "Alldente",
+					"foodChoiseId": "3"
+				},
+				{
+					"foodChoiseName": "Well boiled",
+					"foodChoiseId": "4"
+				}
+			],
+			"foodAdds": [{
+					"foodAddName": "pepper",
+					"foodAddId": "4"
+				},
+				{
+					"foodAddName": "mushrooms",
+					"foodAddId": "5"
+				},
+				{
+					"foodAddName": "pineaple",
+					"foodAddId": "6"
+				}
+			]
+		}, {
+			"foodItemName": "Spaghetti fruti di mare",
+			"foodItemId": "2",
+			"foodChoises": [{
+					"foodChoiseName": "Alldente",
+					"foodChoiseId": "3"
+				},
+				{
+					"foodChoiseName": "Well boiled",
+					"foodChoiseId": "4"
+				}
+			],
+			"foodAdds": [{
+					"foodAddName": "pepper",
+					"foodAddId": "4"
+				},
+				{
+					"foodAddName": "mushrooms",
+					"foodAddId": "5"
+				},
+				{
+					"foodAddName": "pineaple",
+					"foodAddId": "6"
+				}
+			]
+		}, {
+			"foodItemName": "Spaghetti carbonara",
+			"foodItemId": "3",
+			"foodChoises": [{
+					"foodChoiseName": "Alldente",
+					"foodChoiseId": "3"
+				},
+				{
+					"foodChoiseName": "Well boiled",
+					"foodChoiseId": "4"
+				}
+			],
+			"foodAdds": [{
+					"foodAddName": "pepper",
+					"foodAddId": "4"
+				},
+				{
+					"foodAddName": "mushrooms",
+					"foodAddId": "5"
+				},
+				{
+					"foodAddName": "pineaple",
+					"foodAddId": "6"
+				}
+			]
+		}],
+
+
+		"foodChoises": [{
+				"foodChoiseName": "Alldente",
+				"foodChoiseId": "3"
+			},
+			{
+				"foodChoiseName": "Well boiled",
+				"foodChoiseId": "4"
+			}
+		],
+		"foodAdds": [{
+				"foodAddName": "pepper",
+				"foodAddId": "4"
+			},
+			{
+				"foodAddName": "mushrooms",
+				"foodAddId": "5"
+			},
+			{
+				"foodAddName": "pineaple",
+				"foodAddId": "6"
+			}
+		]
+	}]
+}

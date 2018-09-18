@@ -1,0 +1,23 @@
+{
+  "name": "gloriafood",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Loredana Lungu",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bower": "^1.3.1",
+    "http-server": "^0.6.1"
+  },
+  "scripts": {
+    "start": "http-server -a 0.0.0.0 -p 8000"
+  }
+}
